@@ -1,0 +1,6 @@
+{
+  "name": "Frozen Bottle - Premium Milkshakes & Desserts",
+  "description": "India's leading 100% vegetarian dessert cafe chain serving signature thickshakes in glass bottles, dessert jars, boba sundaes, and Belgian waffles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
